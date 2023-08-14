@@ -1,0 +1,6 @@
+Palabras y Terminologia Novedosa 
+
+Cluster
+Polar Coordinates
+nested form
+data density of a time-series view
